@@ -1,3 +1,4 @@
 # Sales_PowerBI
 
-(dashboad.png)
+![Sales Analysis Using Power BI](dashboad.png)
+
