@@ -1,4 +1,4 @@
 # Sales_PowerBI
 
-![Dashboard Preview](dashboard.png)
+![Sales Analysis Using Power BI](dashboard.png)
 
